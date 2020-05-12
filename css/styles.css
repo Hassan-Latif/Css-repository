@@ -62,3 +62,22 @@
 
 }
 
+@media (min-width:768px) and (max-width:991px){
+
+    .sec1{
+         width: 40% ;
+     
+         float: right;
+     }
+     .sec2{
+         width: 40%;
+         
+             
+     }
+     .sec3{
+         margin-top: 15px;
+     }
+ 
+ 
+ }
+ 
